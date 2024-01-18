@@ -17,4 +17,4 @@ public class ARObjectSpawner : MonoBehaviour
     }
 }
 
-public enum ObjectToSpawn { cat, car, plane };
+public enum ObjectToSpawn { Cat, Car, Plane };
