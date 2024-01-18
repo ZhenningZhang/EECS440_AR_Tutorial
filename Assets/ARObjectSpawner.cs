@@ -16,3 +16,5 @@ public class ARObjectSpawner : MonoBehaviour
         AudioSource.PlayClipAtPoint(spawn_sound_effect, Camera.main.transform.position);
     }
 }
+
+public enum ObjectToSpawn { cat, car, plane };
